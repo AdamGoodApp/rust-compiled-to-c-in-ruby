@@ -1,0 +1,10 @@
+[package]
+name = "ruby_and"
+version = "0.1.0"
+authors = ["adamgoodapp <adamgoodapp@gmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "ruby_and"
+crate-type = ["dylib"]
