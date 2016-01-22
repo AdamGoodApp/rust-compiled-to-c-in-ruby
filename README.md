@@ -1,4 +1,4 @@
-# rust-compiled-to-c-in-ruby
+# Rust compiled to C and then used in Ruby
 Testing compiling Rust code to C so we can use inside Ruby.
 
 
